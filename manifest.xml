@@ -1,11 +1,11 @@
 <package>
   <description brief="Orocos module to control a single joint in 3DROV">
-  
   </description>
-  <author>/</author>
-  <license></license>
+  <author>Javier Hidalgo Carrio/javier.hidalgo-carrio@dfki.de</author>
+  <license>LGPLv2 or later</license>
   <url>http://</url>
   <logo>http://</logo>
+
   <!--
    To add any dependencies use the depend tag
   <depend package="dummy-dependency-0" />
@@ -14,4 +14,5 @@
   <depend package="dummy-dependency-n" />
   -->
   <depend package="base/types" />
+  <deprecated>1</deprecated>
 </package>
